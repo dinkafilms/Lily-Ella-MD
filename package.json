@@ -1,5 +1,5 @@
 {
-  "name": "Lily-Ella-MD",
+  "name": "DINKA NADEEN BOT",
   "version": "2.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -17,7 +17,7 @@
     "multi-device",
     "xeon-bot-inc"
   ],
-  "author": "SACHIBOT",
+  "author": "NADEEN",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
